@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Hi 👋, I'm Gomathi K</h1>
 <h3 align="center">A passionate learner</h3> -->
 
-<p align="left"> I'm currently pursuing Integrated Master's degree in Software Systems. My areas of interest are Full Stack Web Development and Machine Learning. I'm currently exploring the field of Deep Learning for Computer Vision.</p>
+<p align="left"> I'm currently pursuing Integrated Master's degree in Software Systems. My areas of interest are Full Stack Web Development and Machine Learning.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kgomathi2910&label=Profile%20views&color=0e75b6&style=flat" alt="kgomathi2910" /> </p>
 
