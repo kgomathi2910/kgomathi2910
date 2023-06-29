@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Gomathi K
 <h3>A passionate learner</h3>
 
-💫 About Me:
+💫 About Me :
 I’m currently working on Full Stack Development<br>🌱 I’m currently learning Cloud methodologies and Deep Learning for Computer Vision<br>⚡ Fun fact : I love singing and listening to music!
 
 
